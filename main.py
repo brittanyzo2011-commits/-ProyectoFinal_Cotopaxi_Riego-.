@@ -72,3 +72,4 @@ with tab3:
     c3.metric("Inyección Económica Anual a Familias", f"${retorno_anual_familias:,.2f}")
 
     st.success(f"La relación Beneficio/Costo estimada para un horizonte de 5 años es de 1.84, confirmando la alta viabilidad financiera e impacto social en Cotopaxi.")
+app = st
