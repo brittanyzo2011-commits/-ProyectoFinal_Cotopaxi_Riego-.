@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/*.py": {
+    "main.py": {
       "memory": 1024,
       "maxDuration": 10
     }
