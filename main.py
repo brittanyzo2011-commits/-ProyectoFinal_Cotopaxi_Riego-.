@@ -83,3 +83,8 @@ if __name__ == "__main__":
 def handler(request, response):
     main()
     return "OK"
+    # Handler oficial para Vercel
+def handler(request, response=None):
+    return "Dashboard de Cotopaxi Activo"
+
+app = handler
